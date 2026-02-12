@@ -63,8 +63,7 @@ const frases = [
 "todo me recuerda a ti.",
 "estás hermosa.",
 "me encanta pasar tiempo contigo.",
-"cocinas delicioso!",
-
+"cocinas delicioso!"
 ];
 
 // Elegir fondo aleatorio
