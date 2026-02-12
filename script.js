@@ -17,7 +17,7 @@ const frases = [
   "todo lo que haces tiene valor.",
   "tu mente es brillante y hermosa.",
   "mereces todo lo bueno que te pase.",
-  "confía en ti, porque yo lo hago."
+  "confía en ti, porque yo lo hago.",
   "recuerda que tu disciplina vale más que cualquier excusa.",
 "lo que hoy parece difícil mañana será parte de tu fuerza.",
 "cada pequeño avance cuenta, aunque nadie lo vea.",
@@ -56,14 +56,14 @@ const frases = [
 "date un descanso, pero no dejes todo a lo último",
 "sal a tomar un poco de sol hoy.",
 "no olvides moverte, aunque sea unos minutos.",
-"desconectarte un rato también cuenta como avanzar."
-"siempre estoy pensando en ti."
-"escuchando tu música favorita es mi manera de sentirme más cerca de ti."
-"amé conocerte."
-"todo me recuerda a ti."
-"estás hermosa."
-"me encanta pasar tiempo contigo."
-"cocinas delicioso!"
+"desconectarte un rato también cuenta como avanzar.",
+"siempre estoy pensando en ti.",
+"escuchando tu música favorita es mi manera de sentirme más cerca de ti.",
+"amé conocerte.",
+"todo me recuerda a ti.",
+"estás hermosa.",
+"me encanta pasar tiempo contigo.",
+"cocinas delicioso!",
 
 ];
 
